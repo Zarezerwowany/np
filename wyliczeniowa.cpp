@@ -7,8 +7,8 @@ int wylicz(int a, int b){
 int main(){
     cout << "Funkcja obliczeniowa.";
     int a,b;
-    a = 5;
-    b = 8;
+    cin >> a;
+    cin >> b;
     wylicz(a,b);
     return 0;
 }

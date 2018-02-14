@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    cout << "Funkcja główna. Wersja: 0.3\tBy: Damian";
+    cout << "Funkcja główna. Wersja: beta 0.4\tBy: Damian";
     system("pause");
 
     return 0;
